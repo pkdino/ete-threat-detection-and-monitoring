@@ -85,14 +85,25 @@ Create panels for real-time attack detection and automated responses.
 Generate an Incident Response Report
 Include:
 ✅ Attack simulation details
+
 ✅ Detected events in CloudTrail and VPC Flow Logs
+
 ✅ Automated Lambda responses
+
 ✅ Dashboard screenshots
+
 🎯 Expected Outcome & Deliverables
 
+
 ✅ AWS Environment with CloudTrail, VPC Flow Logs, and GuardDuty
+
 ✅ Simulated Attacks (Brute Force, Data Exfiltration)
+
 ✅ Threat Detection in AWS
+
 ✅ Automated Incident Response (Block IPs, Isolate Instances)
+
 ✅ AWS Dashboard for Monitoring Attacks & Responses
+
 ✅ Incident Report with attack logs & automated response actions
+
